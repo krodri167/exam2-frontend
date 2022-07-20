@@ -14,7 +14,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import ec.edu.insteclrg.common.MensajesTipo;
 import ec.edu.insteclrg.dto.ApiResponseDTO;
 import ec.edu.insteclrg.dto.CategoriaDTO;
-import ec.edu.insteclrg.handler.CategoriaHandler;
+import ec.edu.insteclrg.handler.crud.CategoriaHandler;
 import ec.edu.insteclrg.utils.Mensajes;
 import lombok.Getter;
 import lombok.Setter;
